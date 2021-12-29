@@ -1,0 +1,31 @@
+body {
+    background-color: rgb(59, 85, 133);
+}
+
+h2 {
+    color: rgb(32, 169, 223);
+    text-align: center;
+}
+
+h4 {
+    color: black;
+    text-align: center;
+}
+section {
+    color: white;
+    text-align: center;
+}
+p {
+    color: white;
+}
+ul {
+    color: white;
+}
+ol {
+    color: white;
+}
+footer {
+    text-align: center;
+
+}
+
