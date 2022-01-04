@@ -1,9 +1,10 @@
 body {
-    background-color: rgb(59, 85, 133);
+    background-color: grey;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
 }
 
 h2 {
-    color: rgb(32, 169, 223);
+    color: maroon;
     text-align: center;
 }
 
@@ -11,20 +12,29 @@ h4 {
     color: black;
     text-align: center;
 }
+
 section {
     color: white;
+    padding-left: 25px;
 }
 p {
     color: white;
+    padding-left: 75px;
+    padding-right: 75px;
+    text-align: center;
 }
 ul {
     color: white;
+    padding-left: 50px;
 }
 ol {
     color: white;
 }
 footer {
     text-align: center;
+}
 
+a {
+    color: maroon;
 }
 
