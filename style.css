@@ -7,6 +7,11 @@ h2 {
     color: maroon;
     text-align: center;
 }
+h3 {
+    color:maroon;
+    padding-left: 50px;
+
+}
 
 h4 {
     color: black;
@@ -19,13 +24,13 @@ section {
 }
 p {
     color: white;
-    padding-left: 75px;
-    padding-right: 75px;
-    text-align: center;
+    padding-left: 25px;
+    padding-right: 25px;
+    text-align: left;
 }
 ul {
     color: white;
-    padding-left: 50px;
+    padding-left: 25px;
 }
 ol {
     color: white;
@@ -36,5 +41,8 @@ footer {
 
 a {
     color: maroon;
+}
+b {
+    color: navy;
 }
 
